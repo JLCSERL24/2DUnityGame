@@ -10,4 +10,4 @@ Small team developing a 2D Side Scroller for fun.
 + 2D-Death Traps ICE, One Point Six Studio
 + 2D Platformer Art Pack, One Point Six Studio
 + Tileable 2d Terrain Platforms - 2D RPK, Doo Labs(Marco Siino)
-
++ PennyPixel Assets: Download the project folder here https://unity3d.com/learn/tutorials/topics/2d-game-creation/intro-2d-world-building-w-tilemap
