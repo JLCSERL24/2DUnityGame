@@ -1,9 +1,8 @@
 # 2DUnityGame
 Small team developing a 2D Side Scroller for fun. 
 
-# Imported Several Free Assets for testing purposes from the asset store.
-Sources follow:
-Asset Store
+### Imported Several Free Assets for testing purposes from the asset store.
+
 2D Game Starter Assets, Creepy Cat
 2D Sprites Pack, Unity Technologies
 Death Traps 2D - Free, One Point Six Studio
