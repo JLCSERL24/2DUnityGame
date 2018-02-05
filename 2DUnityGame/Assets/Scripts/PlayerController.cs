@@ -27,6 +27,14 @@ namespace Assets.Scripts
             Vector2 move = Vector2.zero;
 
             move.x = Input.GetAxis("Horizontal");
+            if (move.x != 0)
+            {
+                _animator.SetBool("isRunning", true);
+            }
+            else if (move.x == 0)
+            {
+                _animator.SetBool("isRunning", false);
+            }
 
             if (Input.GetButtonDown("Jump") && Grounded)
             {
@@ -40,7 +48,7 @@ namespace Assets.Scripts
                 }
             }
 
-            bool flipSprite = (_spriteRenderer.flipX ? (move.x > 0.01f) : (move.x < 0.01f));
+            bool flipSprite = (_spriteRenderer.flipX ? (move.x > 0.01f) : (move.x < 0.00f));
             if (flipSprite)
             {
                 _spriteRenderer.flipX = !_spriteRenderer.flipX;
