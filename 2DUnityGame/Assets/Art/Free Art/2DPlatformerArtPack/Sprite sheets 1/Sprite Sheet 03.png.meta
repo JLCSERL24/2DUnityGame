@@ -1,10 +1,25 @@
 fileFormatVersion: 2
 guid: 0c3fd16d205dc454280309e9640fada2
-timeCreated: 18446744011573954816
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Sprite Sheet 03_0
+    21300002: Sprite Sheet 03_1
+    21300004: Sprite Sheet 03_2
+    21300006: Sprite Sheet 03_3
+    21300008: Sprite Sheet 03_4
+    21300010: Sprite Sheet 03_5
+    21300012: Sprite Sheet 03_6
+    21300014: Sprite Sheet 03_7
+    21300016: Sprite Sheet 03_8
+    21300018: Sprite Sheet 03_9
+    21300020: Sprite Sheet 03_10
+    21300022: Sprite Sheet 03_11
+    21300024: Sprite Sheet 03_12
+    21300026: Sprite Sheet 03_13
+    21300028: Sprite Sheet 03_14
+    21300030: Sprite Sheet 03_15
   externalObjects: {}
-  serializedVersion: 4
+  serializedVersion: 5
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -44,18 +59,21 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -82,6 +100,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: fcb7b062416b3974facd4411f0724ad5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite Sheet 03_1
       rect:
@@ -96,6 +120,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 197aef09396235f438b895fb9c6b8638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite Sheet 03_2
       rect:
@@ -110,6 +140,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: d4a9c4b5c7cf6024ca53e5540e02e1ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite Sheet 03_3
       rect:
@@ -124,6 +160,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: cf688052e9a03c2458ec85fa2fc0aa9a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite Sheet 03_4
       rect:
@@ -138,6 +180,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 64cb4e9268bb9e3499ede0e7fed65516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite Sheet 03_5
       rect:
@@ -152,6 +200,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 14b6ffcf8c41bfb46aa0aa2de3d0b6ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite Sheet 03_6
       rect:
@@ -166,6 +220,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: d5b336ff2cff2584380087d7b92a98e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite Sheet 03_7
       rect:
@@ -180,6 +240,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 58d2c4c54315c0642a1826f6a879f6a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite Sheet 03_8
       rect:
@@ -194,6 +260,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 2a3fd4762c463cc4cae5a7ab0e7d518a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite Sheet 03_9
       rect:
@@ -208,6 +280,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: e6d44bc5d9699c04d997e7180b04e35d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite Sheet 03_10
       rect:
@@ -222,6 +300,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: d85e551efec73a54ba0c15abfb700bac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite Sheet 03_11
       rect:
@@ -236,6 +320,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 38aeb26996bca8a4cbbbf9b013363fbc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite Sheet 03_12
       rect:
@@ -250,6 +340,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 63da7ebef4e29b94588f1f77e0f4a421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite Sheet 03_13
       rect:
@@ -264,6 +360,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 9072b57bfc47c1141a9aee894d38247f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite Sheet 03_14
       rect:
@@ -278,6 +380,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 3223af80b3562284ea80c0402f4d666f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite Sheet 03_15
       rect:
@@ -292,8 +400,20 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: ca63e65cdf6b00f4f8078bf60eaab1a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
   userData: 
   assetBundleName: 

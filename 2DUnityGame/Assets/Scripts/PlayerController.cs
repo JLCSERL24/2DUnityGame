@@ -39,6 +39,7 @@ namespace Assets.Scripts
             if (Input.GetButtonDown("Jump") && Grounded)
             {
                 Velocity.y = JumpTakeOffSpeed;
+                _animator.SetTrigger("jumpTrigger");
             }
             else if (Input.GetButtonUp("Jump"))
             {

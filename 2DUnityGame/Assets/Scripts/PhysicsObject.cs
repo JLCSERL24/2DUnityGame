@@ -5,7 +5,7 @@ namespace Assets.Scripts
 {
     /// <summary>
     /// This class provides physics for all objects in our game.
-    /// Intances of objects and specific enemies or characters will inherit from there class when
+    /// Intances of objects and specific enemies or characters will inherit from their class when
     /// their physics is scripted.
     /// 
     /// Note: For the time being, this is not original code. 

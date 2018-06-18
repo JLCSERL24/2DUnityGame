@@ -1,10 +1,36 @@
 fileFormatVersion: 2
 guid: d1cbabba349ed06428292b005c0d1087
-timeCreated: 18446744011573954816
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Sprite sheet Clouds_0
+    21300002: Sprite sheet Clouds_1
+    21300004: Sprite sheet Clouds_2
+    21300006: Sprite sheet Clouds_3
+    21300008: Sprite sheet Clouds_4
+    21300010: Sprite sheet Clouds_5
+    21300012: Sprite sheet Clouds_6
+    21300014: Sprite sheet Clouds_7
+    21300016: Sprite sheet Clouds_8
+    21300018: Sprite sheet Clouds_9
+    21300020: Sprite sheet Clouds_10
+    21300022: Sprite sheet Clouds_11
+    21300024: Sprite sheet Clouds_12
+    21300026: Sprite sheet Clouds_13
+    21300028: Sprite sheet Clouds_14
+    21300030: Sprite sheet Clouds_15
+    21300032: Sprite sheet Clouds_16
+    21300034: Sprite sheet Clouds_17
+    21300036: Sprite sheet Clouds_18
+    21300038: Sprite sheet Clouds_19
+    21300040: Sprite sheet Clouds_20
+    21300042: Sprite sheet Clouds_21
+    21300044: Sprite sheet Clouds_22
+    21300046: Sprite sheet Clouds_23
+    21300048: Sprite sheet Clouds_24
+    21300050: Sprite sheet Clouds_25
+    21300052: Sprite sheet Clouds_26
   externalObjects: {}
-  serializedVersion: 4
+  serializedVersion: 5
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -44,18 +70,21 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
   textureType: 8
   textureShape: 1
+  singleChannelComponent: 0
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
   platformSettings:
-  - buildTarget: DefaultTexturePlatform
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
     maxTextureSize: 1024
     resizeAlgorithm: 0
     textureFormat: -1
@@ -82,6 +111,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 3533e644c74f61a4580bfe22803eceae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite sheet Clouds_1
       rect:
@@ -96,6 +131,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 9e97340f772e68549a017d05bb5279ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite sheet Clouds_2
       rect:
@@ -110,6 +151,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: adb7dbc73c28afa4b8f8330f351009a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite sheet Clouds_3
       rect:
@@ -124,6 +171,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 76d8d0f9d72fe31419b0e92f582eaf01
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite sheet Clouds_4
       rect:
@@ -138,6 +191,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 80fd53de2ae39a848923f780c376df35
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite sheet Clouds_5
       rect:
@@ -152,6 +211,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 21f3fdc37b4935c46ae0db095820464f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite sheet Clouds_6
       rect:
@@ -166,6 +231,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 2987dba6aaa41d843a05f30d8aae3be9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite sheet Clouds_7
       rect:
@@ -180,6 +251,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 5e35743ce554173468a300d797c1fcc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite sheet Clouds_8
       rect:
@@ -194,6 +271,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 2a42fe4cbe493a0418d7d059a05bfb93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite sheet Clouds_9
       rect:
@@ -208,6 +291,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 1cc08790cf4657244bfec18fd3c3392f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite sheet Clouds_10
       rect:
@@ -222,6 +311,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: c690b0a1f8b075a4aae8f6e4eb09722e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite sheet Clouds_11
       rect:
@@ -236,6 +331,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 994734ce573aebe46b316993f499bc06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite sheet Clouds_12
       rect:
@@ -250,6 +351,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 6f9ba8aee4e05fb4cb4e41b48831a613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite sheet Clouds_13
       rect:
@@ -264,6 +371,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 3fcbd906476cd7641b203166433372c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite sheet Clouds_14
       rect:
@@ -278,6 +391,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 34d6f9d5848fb734b897fa71c554e234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite sheet Clouds_15
       rect:
@@ -292,6 +411,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: bb7b39e447c372548b14bf339a2e32f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite sheet Clouds_16
       rect:
@@ -306,6 +431,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: f8447f6f81a3e5b4e82a919c607db8c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite sheet Clouds_17
       rect:
@@ -320,6 +451,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: e5fcebd4a6a9545418c5cef5ffccc7e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite sheet Clouds_18
       rect:
@@ -334,6 +471,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: bd41b6f1e740c9649a68b013c532808e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite sheet Clouds_19
       rect:
@@ -348,6 +491,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: e004f6238fac313498452d38507aefa1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite sheet Clouds_20
       rect:
@@ -362,6 +511,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: ca605b29ab976504b9a29310a28d0e33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite sheet Clouds_21
       rect:
@@ -376,6 +531,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 3a5afffaaa1fdf74aa18d5d906e2f981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite sheet Clouds_22
       rect:
@@ -390,6 +551,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 54eaa9795dc7d3b439c6f4e86a595af2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite sheet Clouds_23
       rect:
@@ -404,6 +571,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: c3c229ae2f9218f4099874db61e6e6c1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite sheet Clouds_24
       rect:
@@ -418,6 +591,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 3846855c033bcba439db8cdea8d0803b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite sheet Clouds_25
       rect:
@@ -432,6 +611,12 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: 765620762a3399047b5e8d03e84dac67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     - serializedVersion: 2
       name: Sprite sheet Clouds_26
       rect:
@@ -446,8 +631,20 @@ TextureImporter:
       outline: []
       physicsShape: []
       tessellationDetail: -1
+      bones: []
+      spriteID: c4d4a0cad89b3894f81694165580195a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
+    bones: []
+    spriteID: 
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
   spritePackingTag: 
   userData: 
   assetBundleName: 
