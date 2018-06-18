@@ -1,6 +1,9 @@
 # 2DUnityGame
 Small team developing a 2D Side Scroller for fun. 
 
+We now have a demo build available. Simply unzip the builds folder and there is an executable to run the game.
+It's not much yet, but its a fun process and things are slowly coming together!
+
 ### Imported Several Free Assets for testing purposes from the Unity asset store.
 
 ##### Credit for imported assets goes to:
